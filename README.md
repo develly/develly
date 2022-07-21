@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
 </p>
 
 <h3>Cooperation :rainbow:</h3>
@@ -28,6 +30,15 @@
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
 </p>
+
+<h3>Favorite Coding Style :whale2:</h3>
+<p>
+:full_moon_with_face: Tool: Pycharm
+:two_hearts: Code format: Type Hint
+:star: Docs format: Google
+</p>
+
+
 
 <br/>
 &#128231; Email: projyuri@gmail.com <br/>
