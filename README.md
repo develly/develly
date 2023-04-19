@@ -42,7 +42,8 @@
 
 <br/>
 &#128231; Email: projyuri@gmail.com <br/>
-:seedling: Blog: https://ashortday.tistory.com/ <br/><br/>
+:seedling: Blog: https://ashortday.tistory.com/ <br/>
+:cherry_blossom: Linkedin: https://www.linkedin.com/in/yuri-lee-a34b33272/ <br/><br/>
 
 
 
