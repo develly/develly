@@ -5,21 +5,32 @@
 뛰어난 **머신러닝 엔지니어**가 되기 위해 노력하고 있습니다.<br/>
 :running: 중요한 건 꺾여도 그냥 하는 마음 :running: <br/><br/>
 
+🎓 Background • Industrial and Management Systems Engineering at KHU <br/>
+🚀 Domain • Robo-Advisor • Quant <br/>
+🏆 Expertise • Time Series Prediction <br/><br/>
+
+
+<h3>Core technology :fire:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp <br/>
+</p>
 
 <h3>Tech Stack :herb:</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=Harbor&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=Harbor&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=SciPy&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=Ray&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3>Cooperation :rainbow:</h3>
