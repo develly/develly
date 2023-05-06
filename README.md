@@ -7,8 +7,8 @@
 
 🎓 Background • Industrial and Management Systems Engineering at KHU <br/>
 🚀 Domain • Robo-Advisor • Quant <br/>
-🏆 Expertise • Time Series Prediction <br/><br/>
-
+🏆 Expertise • Time Series Prediction <br/>
+🔥 All About Me • [😉](https://shadow-spice-12b.notion.site/5e7a395ad6014aca803808e6e8840c83) <br/><br/>
 
 <h3>Core technology :fire:</h3>
 <p>
